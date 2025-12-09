@@ -42,13 +42,12 @@
 ---
 
 ## 📊 GitHub
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=20200961&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=20200961&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200961&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200961&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
-
-</div>
 
 ---
 
