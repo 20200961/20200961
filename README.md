@@ -53,9 +53,7 @@
 ---
 
 ## 🔗 Contact
-[LinkedIn](여기에_링크드인)  
-[Email](mailto:여기에_이메일)  
-[Portfolio](여기에_노션)
+[Email] kjseok000@daum.net 
 
 ---
 
