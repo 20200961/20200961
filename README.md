@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&section=header&text=Jiwon%20Choi&fontSize=34&fontAlign=30&textBg=true&desc=Web%20Developer&descAlign=62&descAlignY=52)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&section=header&text=Junseok%20Kong&fontSize=34&fontAlign=30&textBg=true&desc=Web%20Developer&descAlign=62&descAlignY=52)
 
 ---
 
