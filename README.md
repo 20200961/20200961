@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-6DB33F?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
 **Database**
 <br/>
