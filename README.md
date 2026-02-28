@@ -43,16 +43,6 @@
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=20200961&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200961&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-
----
-
 ## 🔗 Contact
 [![Email](https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:kjseok000@daum.net)<br>
 [![Tistory](https://img.shields.io/badge/Tech%20Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)](https://junsseok.tistory.com/)
